@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Shujath",
+			"oem": "Sony",
+			"device": "Xperia XZ3",
+			"filename": "crDroidAndroid-13.0-20230408-akatsuki-v9.3.zip",
+			"download": "https://drive.google.com/file/d/1xb_-JZTv-soHXQucJwOKQX5XT7rKRMEi/view?usp=share_link",
+			"timestamp": 1680961431,
+			"md5": "dce2246bd578bd0bdedde56edc01d45a",
+			"sha256": "eae078ce666a33c478a040cbca437461c18fd4a1c1d7da52ea772469613bfac7",
+			"size": 894861837,
+			"version": "9.3",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
