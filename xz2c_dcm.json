@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Shujath",
+			"oem": "Sony",
+			"device": "Xperia XZ2 Copmpac(Docomo)",
+			"filename": "crDroidAndroid-13.0-20230425-xz2c_dcm-v9.4.zip",
+			"download": "https://sourceforge.net/projects/sony-xperia-tama/files/XZ2-Compact%28Docomo%29/crDroidAndroid-13.0-20230425-xz2c_dcm-v9.4.zip/download",
+			"timestamp": 1682361900,
+			"md5": "08ae4c1d915e9d939f6baa1fa9d4d172",
+			"sha256": "c623cd025cea2a1e81183aca8d27a7bdc409b5bfa6301fbd2fec62a9fef356d9",
+			"size": 891779855,
+			"version": "9.4",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
