@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Shujath",
+			"oem": "Sony",
+			"device": "Xperia XZ2 Compact(Global)",
+			"filename": "crDroidAndroid-13.0-20230630-xz2c-v9.6.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/xz2c/9.x/crDroidAndroid-13.0-20230630-xz2c-v9.6.zip/download",
+			"timestamp": 1688125895,
+			"md5": "c6d15cebef10bce5c6897827ed1bd375",
+			"sha256": "31d9d31390157cd5f85dd89f7710bc2ab4a3aa19ff6f612c8ed2f534a03b8aa5",
+			"size": 902835639,
+			"version": "9.6",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
